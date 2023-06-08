@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafazaderamazan&label=Profile%20views&color=0e75b6&style=flat" alt="mustafazaderamazan" /> </p>
 
-- 🔭 I’m currently working on [GameHub E-Commerce Site]
+- 🔭 I’m currently working on [Google Play Games]
 
-- 🌱 I’m currently learning **ASP.NET, React, React Native**
+- 🌱 I’m currently learning **DevOps, Node.Js, React Native**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MustafazadeRamazan](https://github.com/MustafazadeRamazan)
 
