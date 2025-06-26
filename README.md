@@ -5,18 +5,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafazaderamazan&label=Profile%20views&color=0e75b6&style=flat" alt="mustafazaderamazan" /> </p>
 
-- 🔭 I’m currently working on my projects
+- 🔭 I’m currently working on Unity Asset Store
 
 - 🌱 I’m currently learning **Android Studio**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MustafazadeRamazan](https://github.com/MustafazadeRamazan)
 
-- 📫 How to reach me **ramazanmustafazade4@gmail.com**
+- 📫 How to reach me **via LinkedIn**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ramazan-mustafazade-a6444322b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramazan mustafazade" height="30" width="40" /></a>
-<a href="https://instagram.com/bothdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@bothdeveloper" height="30" width="40" /></a>
 <a href="https://www.youtube.com/BothDeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@bothdeveloper" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/NpH6aFgjqs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/NpH6aFgjqs" height="30" width="40" /></a>
 </p>
