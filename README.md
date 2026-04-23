@@ -14,17 +14,26 @@
 - 📫 Text me **via LinkedIn**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/ramazan-mustafazade-a6444322b/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-  </a>
-  <a href="https://www.youtube.com/BothDeveloper" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" />
-  </a>
-  <a href="https://discord.gg/NpH6aFgjqs" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" />
-  </a>
-</p>
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/ramazan-mustafazade-a6444322b/" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.youtube.com/BothDeveloper" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="40" width="40"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://discord.gg/NpH6aFgjqs" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="40" width="40"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mustafazaderamazan&show_icons=true&locale=en&layout=compact" alt="mustafazaderamazan" /></p>
 
