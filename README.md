@@ -35,8 +35,4 @@
   </tr>
 </table>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mustafazaderamazan&show_icons=true&locale=en&layout=compact" alt="mustafazaderamazan" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mustafazaderamazan&show_icons=true&locale=en" alt="mustafazaderamazan" /></p>
-
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mustafazaderamazan&" alt="mustafazaderamazan" /></p> -->
